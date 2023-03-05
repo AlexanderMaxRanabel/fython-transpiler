@@ -19,10 +19,10 @@ Usage
 
     You can now run your Python code as usual using a standard Python interpreter.
 
-Why use Fython Transpiler?
+# Why use Fython Transpiler?
 
 While the use of the def keyword in Python may seem odd or unappealing to some people, it has become a standard part of the language syntax over the years. However, with Fython Transpiler, you can now write your Python code using the fun keyword instead of def, and then easily convert it to standard Python syntax using the transpiler. This can help you avoid using the def keyword altogether while still being able to write valid Python code.
 License
 
-Fython Transpiler is released under the LGPL 3.0 license. This means that you are free to use, modify, and distribute the code as long as you adhere to the terms of the license. See the LICENSE file for more details.
+Fython Transpiler is released under the LGPL 2.1 license. This means that you are free to use, modify, and distribute the code as long as you adhere to the terms of the license. See the LICENSE file for more details.
 Contributions
